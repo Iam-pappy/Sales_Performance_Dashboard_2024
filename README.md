@@ -56,11 +56,11 @@ Interactive Power BI dashboard analyzing **$19.7M in sales** across 4 regions, 8
 4. Review insights in `Executive_Summary.pdf`
 
 ## 📸 Dashboard Previews
-![Executive Dashboard](<img width="1185" height="682" alt="Screenshot 2026-05-04 014339" src="https://github.com/user-attachments/assets/0ae6769b-6f23-4e80-aabc-23dc5fdf99c9" />)
+![Executive Dashboard] (<img width="1185" height="682" alt="Screenshot 2026-05-04 014339" src="https://github.com/user-attachments/assets/0ae6769b-6f23-4e80-aabc-23dc5fdf99c9" />)
 
-![Salesperson Analysis](<img width="1173" height="665" alt="Screenshot 2026-05-04 014403" src="https://github.com/user-attachments/assets/69a77a3c-3a9e-4b7e-9663-6f1900c192b9" />
+![Salesperson Analysis] (<img width="1173" height="665" alt="Screenshot 2026-05-04 014403" src="https://github.com/user-attachments/assets/69a77a3c-3a9e-4b7e-9663-6f1900c192b9" />
 )
-![Product Performance](<img width="1197" height="674" alt="Screenshot 2026-05-04 025140" src="https://github.com/user-attachments/assets/33f1b699-53b0-4dea-88da-9a8ebbc07078" />
+![Product Performance] (<img width="1197" height="674" alt="Screenshot 2026-05-04 025140" src="https://github.com/user-attachments/assets/33f1b699-53b0-4dea-88da-9a8ebbc07078" />
 )
 
 ## 📧 Contact
